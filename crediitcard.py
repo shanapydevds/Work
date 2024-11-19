@@ -47,5 +47,5 @@ def identify_card_type(card_number):
 
 # Example Usage
 card = "6011111111111117"  # Example Visa card
-result = check_credit_card(card)
-print(result)
+res = check_credit_card(card)
+print(res)
